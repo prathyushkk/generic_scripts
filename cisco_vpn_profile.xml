@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnyConnectProfile xmlns="http://schemas.xmlsoap.org/encoding/">
+<ServerList>
+     <HostEntry>
+          <User>xpsa9</User>
+          <SecondUser></SecondUser>
+          <ClientCertificateThumbprint></ClientCertificateThumbprint>
+          <ServerCertificateThumbprint></ServerCertificateThumbprint>
+          <HostName>Norwest</HostName>
+          <HostAddress>internal-vpn-nw.woolworths.com.au</HostAddress>
+          <Domain></Domain>
+          <Group>ssl_url</Group>
+          <ProxyHost></ProxyHost>
+          <ProxyPort></ProxyPort>
+          <SDITokenType>none</SDITokenType>
+          <ControllablePreferences>
+          <LocalLanAccess>true</LocalLanAccess></ControllablePreferences>
+     </HostEntry>
+     <HostEntry>
+          <User>xpsa9</User>
+          <SecondUser></SecondUser>
+          <ClientCertificateThumbprint></ClientCertificateThumbprint>
+          <ServerCertificateThumbprint></ServerCertificateThumbprint>
+          <HostName>EasternCreek</HostName>
+          <HostAddress>internal-vpn-ec.woolworths.com.au</HostAddress>
+          <Domain></Domain>
+          <Group>ssl_url</Group>
+          <ProxyHost></ProxyHost>
+          <ProxyPort></ProxyPort>
+          <SDITokenType>none</SDITokenType>
+          <ControllablePreferences>
+          <LocalLanAccess>true</LocalLanAccess></ControllablePreferences>
+     </HostEntry>
+     <HostEntry>
+          <User>xpsa9</User>
+          <SecondUser></SecondUser>
+          <ClientCertificateThumbprint></ClientCertificateThumbprint>
+          <ServerCertificateThumbprint></ServerCertificateThumbprint>
+          <HostName>Remote-EasternCreek</HostName>
+          <HostAddress>corporate-vpn-ec.woolworths.com.au</HostAddress>
+          <Domain></Domain>
+          <Group>ssl_url</Group>
+          <ProxyHost></ProxyHost>
+          <ProxyPort></ProxyPort>
+          <SDITokenType>none</SDITokenType>
+          <ControllablePreferences>
+          <LocalLanAccess>true</LocalLanAccess></ControllablePreferences>
+     </HostEntry>
+     <HostEntry>
+          <User>xpsa9</User>
+          <SecondUser></SecondUser>
+          <ClientCertificateThumbprint></ClientCertificateThumbprint>
+          <ServerCertificateThumbprint></ServerCertificateThumbprint>
+          <HostName>Remote-Norwest</HostName>
+          <HostAddress>corporate-vpn-nw.woolworths.com.au</HostAddress> 
+          <Domain></Domain>
+          <Group>ssl_url</Group>
+          <ProxyHost></ProxyHost>
+          <ProxyPort></ProxyPort>
+          <SDITokenType>none</SDITokenType>
+          <ControllablePreferences>
+          <LocalLanAccess>true</LocalLanAccess></ControllablePreferences>
+     </HostEntry>
+
+
+</ServerList>
+</AnyConnectProfile>
